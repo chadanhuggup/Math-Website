@@ -1,5 +1,5 @@
-# mathwizonline
- Math website
+# Math website
+
 Users can practice addition, subtraction, multiplication and division.
 Levels get harder as the proceed. Need to score at least 80% to progress.
 
